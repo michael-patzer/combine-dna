@@ -10,7 +10,7 @@ Special handling is included for:
 - True conflicts
 
 Usage:
-    python dna_merger.py primary_file secondary_file output_file
+    `python dna_merger.py primary_file secondary_file output_file`
 
 Arguments:
     primary_file: Path to the first DNA file (takes precedence in conflicts)
