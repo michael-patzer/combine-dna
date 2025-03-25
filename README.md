@@ -6,7 +6,7 @@ Special handling is included for:
 - Sex chromosomes (X/Y) and mitochondrial DNA (MT)
 - No-calls (-- or 00) vs actual data
 - Orientation differences (CT/TC, AG/GA, etc.)
-- Identical heterozygous genotypes represented differently (AT/AT, CG/CG)
+- Identical heterozygous genotypes represented differently (AT/AT, CG/CG) (Mostly a file formatting issue)
 - True conflicts
 
 Usage:
