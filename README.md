@@ -13,8 +13,8 @@ Usage:
     `python dna_merger.py primary_file secondary_file output_file`
 
 Arguments:
-    primary_file: Path to the first DNA file (takes precedence in conflicts)
-    secondary_file: Path to the second DNA file 
-    output_file: Path where the merged DNA data will be written
+- `primary_file`: Path to the first DNA file (takes precedence in conflicts)
+- `secondary_file`: Path to the second DNA file 
+- `output_file`: Path where the merged DNA data will be written
 
 ![Combine DNA Strand Image](dna.webp)
